@@ -49,38 +49,38 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
   <img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/fb3f67a9-ac6c-4475-830a-10253d4a3a85" />
 
 
-4. Select the **target microcontroller** or board and click **Next**.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
+3. Select the **target microcontroller** or board and click **Next**.
+   <img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/6e113457-68cf-4293-8be3-8ff0c44e8c53" />
 
 
 
-5. Name the project.
+4. Name the project.
    <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
 
-6. The corresponding `.ioc` file will be generated automatically.
+5. The corresponding `.ioc` file will be generated automatically.
   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
 
-7. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
+6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
 <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
 
-8. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
+7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
  
-9. Edit the generated main program as required.
+8. Edit the generated main program as required.
    <img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/55fea188-cf84-4fd0-a1e1-4bc5127c3b9c" />
 
 
-10. Click **Project → Build All**.
+9. Click **Project → Build All**.
     <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
 
-11. Link the **HEX file** using the post-build process.
+10. Link the **HEX file** using the post-build process.
     <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
 
-12. Click **Debug** and connect the **STM Nucleo Board**.
+11. Click **Debug** and connect the **STM Nucleo Board**.
     <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
 
-13. Click **Run** to execute the program.
+12. Click **Run** to execute the program.
     
 ---
 
