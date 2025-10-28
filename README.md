@@ -50,7 +50,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 3. Select the **target microcontroller** or board and click **Next**.
-  <img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/d314fd52-2589-4750-80ab-28afbe18dcee" />
+  <img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/70cc359e-6ec8-47ed-870f-922ae30f1ab6" />
+
 
 
 
