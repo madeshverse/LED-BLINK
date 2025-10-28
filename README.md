@@ -46,28 +46,28 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 2. Click **File → New STM32 Project**.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/edf33429-8eea-4857-a991-c2d7706fc787" />
+  <img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/fb3f67a9-ac6c-4475-830a-10253d4a3a85" />
 
-3. Select the **target microcontroller** or board and click **Next**.
+
+4. Select the **target microcontroller** or board and click **Next**.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
 
 
 
-4. Name the project.
+5. Name the project.
    <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
 
-5. The corresponding `.ioc` file will be generated automatically.
+6. The corresponding `.ioc` file will be generated automatically.
   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
 
-6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
+7. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
 <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
 
-7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
+8. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
  
-8. Edit the generated main program as required.
+9. Edit the generated main program as required.
    <img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/55fea188-cf84-4fd0-a1e1-4bc5127c3b9c" />
 
 
