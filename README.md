@@ -59,11 +59,11 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
    <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
 
 6. The corresponding `.ioc` file will be generated automatically.
- <img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/8cf20008-c767-4137-8501-2f3a84e39e4e" />
+ 
 
 
 8. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/acc4f1c4-5e33-431b-8a76-3b102016baa6" />
+ <img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/8cf20008-c767-4137-8501-2f3a84e39e4e" />
 <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
 
 9. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
